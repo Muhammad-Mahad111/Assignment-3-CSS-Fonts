@@ -1,50 +1,50 @@
-@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Rubik+Puddles&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Rubik+Puddles&display=swap");
 /* Task a  */
 * {
-    font-size: 20px;
-    font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
 }
 /* Task b  */
 h1 {
-    color: darkblue;
-    text-align: center;
+  color: darkblue;
+  text-align: center;
 }
 /* Task c  */
 #main-title {
-    font-weight: bold;
-    text-decoration: underline;
+  font-weight: bold;
+  text-decoration: underline;
 }
 /* Task d  */
 .intro-paragraph {
-    font-style: italic;
-    line-height: 1.5;
+  font-style: italic;
+  line-height: 1.5;
 }
 /* Task e  */
 .content-paragraph {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 /* Task f  (Used span in the givin HTML Structure) */
 .first-word {
-    font-weight: bold;
+  font-weight: bold;
 }
-/* Task g */ 
+/* Task g */
 .nav-link {
-    color: forestgreen;
-    text-decoration: none;
+  color: forestgreen;
+  text-decoration: none;
 }
 /* Task g  */
 .color-box p {
-    text-shadow: 2px 2px rgba(0,0,0,0.3);    
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
 }
 /* Dramatic change (change made because teacher said the task font is similar to default font  )*/
 * {
-    font-family: "Kalnia Glaze", serif;
+  font-family: "Kalnia Glaze", serif;
 }
 h1 {
-    font-family: "Rubik Puddles", system-ui;
+  font-family: "Rubik Puddles", system-ui;
 }
 .nav-link {
-    color: forestgreen;
-    text-decoration: none;
-    font-family: 'Times New Roman', Times, serif;
+  color: forestgreen;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
 }
